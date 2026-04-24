@@ -1,8 +1,4 @@
-Here is a comprehensive README.md template tailored for the GitHub user william-scuist. It focuses on dynamic data fetching, using GitHub API calls to generate "live" stats, graphs, and badges instead of hardcoded values.
 
-You can copy and paste this directly into your profile repository or a pinned repository.
-
-```markdown
 # 👋 Hi, I'm William (william-scuist)
 
 Welcome to my GitHub universe. I navigate the intersection of **Developer Experience (DevEx)** and **Robust Backend Systems**.
