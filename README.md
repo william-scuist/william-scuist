@@ -103,17 +103,3 @@ Welcome to my GitHub universe. I navigate the intersection of **Developer Experi
 </div>
 ```
 
-How the Links Work (Dynamic Fetching)
-
-The README.md uses Vercel Microservices (which act as APIs) to generate images on the fly:
-
-· github-readme-stats.vercel.app: Renders real-time stats (Stars, Commits, PRs) into an SVG based on the username query.
-· github-readme-activity-graph.vercel.app: Fetches the latest contribution calendar data to draw a sparkline graph.
-· github-profile-trophy.vercel.app: Dynamically ranks repositories and pulls.
-
-Setup Instructions
-
-1. Repo Name: Create a repository named william-scuist (your username).
-2. Make it Public: Profile READMEs only work on public repos.
-3. Copy & Edit: Paste the template and replace placeholders (like william@scuist.dev) with your actual links.
-4. Live Data: The graphs linked to william-scuist in the URLs will automatically show your stats once viewed.
